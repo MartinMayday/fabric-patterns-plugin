@@ -1,0 +1,10 @@
+{
+  "name": "fabric-patterns",
+  "version": "1.0.0",
+  "description": "Daniel Miessler's Fabric patterns as Claude Code skills - AI-powered content extraction and analysis",
+  "author": {
+    "name": "nosrcadmin",
+    "url": "https://github.com/nosrcadmin"
+  },
+  "keywords": ["fabric", "patterns", "youtube", "extraction", "summarization", "analysis"]
+}
